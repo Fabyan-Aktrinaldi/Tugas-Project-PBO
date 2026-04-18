@@ -16,7 +16,7 @@ public class Game {
 
     public void start() {
 
-        System.out.println("\n=========== GAME COLLOSEUM BATTLE ===========\n");
+        System.out.println("\n|===========| GAME COLLOSEUM BATTLE |===========|\n");
         System.out.println("Kamu adalah seorang budak yang harus bertarung untuk membeli kebebasan anda!");
         System.out.println("Kumpulkan " + targetGold + " gold untuk membeli kebebasan anda!\n");
 
